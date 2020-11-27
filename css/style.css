@@ -1,0 +1,36 @@
+body {
+    background: #55557e;
+}
+
+.head1 {
+    display: flex;
+    align-items: center;
+    margin: 4rem 30rem;
+}
+
+.img1 {
+    background-color: #3d3e52;
+    padding: 1rem 1.3rem;
+    margin-left: 0.1rem;
+}
+
+.img2 {
+    background-color: #252525;
+    padding: 1.6rem 1.9rem;
+    box-shadow: 1px 0px 6px 1px rgb(56, 56, 56);
+}
+
+.img3 {
+    background-color: #3d3e52;
+    padding: 1rem 1.3rem;
+}
+
+.img1:hover {
+    background-color: #2d2c39;
+    cursor: pointer;
+}
+
+.img3:hover {
+    background-color: #2d2c39;
+    cursor: pointer;
+}
