@@ -34,3 +34,43 @@ body {
     background-color: #2d2c39;
     cursor: pointer;
 }
+
+.head2 {
+    margin: -3.3rem 32.5rem;
+    /* margin: 4rem 30rem; */
+}
+
+.food {
+    height: 10rem;
+    width: 17rem;
+    background-image: url(../media/food.jpg);
+    background-size: cover;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+h1 {
+    margin-left: 1rem;
+    padding-top: 5rem;
+    color: #ffffffc9;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+.loc {
+    height: 1.7rem;
+    width: 1rem;
+    padding-right: 0.1rem;
+}
+
+p {
+    color: #ffffffc9;
+    font-family: sans-serif;
+    font-size: 0.9rem;
+}
